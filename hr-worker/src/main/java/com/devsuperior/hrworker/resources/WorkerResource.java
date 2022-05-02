@@ -2,7 +2,6 @@ package com.devsuperior.hrworker.resources;
 
 import java.util.List;
 
-import org.hibernate.annotations.common.util.impl.LoggerFactory;
 import org.slf4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
